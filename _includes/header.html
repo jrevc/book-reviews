@@ -1,7 +1,11 @@
 <header>
 	<nav>
 		{% for item in site.data.navigation %}
-		<li><a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+		{% assign pagetype = page.url %}
+		{% if page.layout == "review" %}
+			{% assign pagetype = "/list" %}
+		{% endif %}
+		<li><a href="{{ item.link | relative_url }}" {% if pagetype == item.link %}class='active'{% endif %}>{{ item.name }}</a>
 		{% endfor %}
 	</nav>
 </header>

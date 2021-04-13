@@ -3,6 +3,10 @@ layout: review
 title: Insurrecto
 author: Gina Apostol
 slug: insurrecto
+
+fullybooked: https://www.fullybookedonline.com/book-fiction-insurrecto-paperback-by-gina-apostol.html
+amazon: https://read.amazon.com/kp/embed?asin=B079WLZLB2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_BN5JZ0H1XHVKY8THP0MZ
+goodreads: https://www.goodreads.com/book/show/40237027-insurrecto
 ---
 
 *Insurrecto* does not waste time in declaring that reading it will be a different experience: the book begins at chapter 20 and proceeds to play up and down the chapter scale -- energetically and unpredictably, much like a jazz pianist! -- from there. There is some logic to the chapter numbering to be worked out, but it’s a bit too much to think about for a reader who is already struggling to follow the many different threads that make up the narrative.

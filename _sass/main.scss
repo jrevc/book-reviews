@@ -123,6 +123,18 @@ h5 {
 	color:#fff;
 }
 
+.button.minor {
+	background-color:$accent-color;
+	color:#fff;
+	text-transform:none;
+	margin-top:0.5em;
+}
+
+.button.minor:hover {
+	background-color:$lighter-accent-color;
+	color:#fff;
+}
+
 /**********/
 /* HEADER */
 /**********/
@@ -161,6 +173,10 @@ nav li a {
 	font-weight:400;
 	color:$lighter-accent-color;
 	display:block;
+}
+
+nav li a.active {
+	color:$dark-color;
 }
 
 nav li a:hover {
@@ -222,7 +238,14 @@ article {
 }
 
 .review-cover img {
-	max-height:500px;
+	max-height:400px;
+	vertical-align:bottom;
+}
+
+.review-info {
+	display:flex;
+	flex-direction:column;
+	justify-content:space-between;
 }
 
 .nextlink,

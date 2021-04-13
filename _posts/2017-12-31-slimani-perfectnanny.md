@@ -2,6 +2,10 @@
 title: The Perfect Nanny
 author: Leila Slimani
 slug: perfect_nanny
+
+fullybooked: https://www.fullybookedonline.com/book-fiction-the-perfect-nanny-paperback-by-leila-slimani.html
+amazon: https://read.amazon.com/kp/embed?asin=B07178T7YP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Q86ZP5B8P2VMQHZCAXF9
+goodreads: https://www.goodreads.com/book/show/38330854-the-perfect-nanny
 ---
 
 In *The Perfect Nanny*, Leila Slimani immerses the reader in a version of Paris not often seen in media: gloomy, uncaring, suffocating, and thoroughly intriguing. It is a lean novel that will be done in a sitting or two, always keeping the reader on their toes in spite of the clichéd premise -- it is as if the book itself is one unfortunate incident away from finally tipping on the side of irredeemable, unstoppable, murderous insanity.

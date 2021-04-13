@@ -3,6 +3,9 @@ layout: review
 title: Dragon Teeth
 author: Michael Crichton
 slug: dragon_teeth
+
+amazon: https://read.amazon.com/kp/embed?asin=B01JK5SU2U&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Q0YR2XCFQ2JT0BXW0S58
+goodreads: https://www.goodreads.com/book/show/31287693-dragon-teeth
 ---
 
 *Dragon Teeth’s* book cover looks suspiciously like another more well-known Michael Crichton novel: his name is displayed prominently with a silhouette of what’s clearly a dinosaur skull. This reviewer wouldn’t fault anyone for assuming that *Dragon Teeth* is the next chapter in the tale started by *Jurassic Park* -- until, of course, they notice the tiny cowboy perched on top of the skull, transforming the bone ridges into a Marlboro-esque prairie of a landscape.

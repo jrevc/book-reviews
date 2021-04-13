@@ -3,6 +3,9 @@ layout: review
 title: Farsighted
 author: Steven Johnson
 slug: farsighted
+
+amazon: https://read.amazon.com/kp/embed?asin=B078VXC44T&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_85WX9S9ZDNQ7Z9YBTS4Z
+goodreads: https://www.goodreads.com/book/show/38769051-farsighted
 ---
 
 The act of decision-making is a unique and remarkable thing. It is a discipline, but it is also a chore. It is something that all people engage in multiple times a day, and its impact on everyday life cannot be denied. It’s also something that very few people actually study in a systemic, academic manner.

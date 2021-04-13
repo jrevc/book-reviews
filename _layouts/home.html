@@ -12,7 +12,7 @@ layout: default
 	{% assign post = site.posts | first %}
 	{% include bookcover.html %}
 	<div class="featured">
-		<h4>Latest book review</h4>
+		<h4>What's new?</h4>
 		<h5>{{ post.title }} by {{ post.author }}</h5>
 		{{ post.excerpt }}
 		<div class="center"><a class="button" href="{{ post.url | relative_url }}">Read the review</a></div>

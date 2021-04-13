@@ -3,6 +3,10 @@ layout: review
 title: Florida
 author: Lauren Groff
 slug: florida
+
+fullybooked: https://www.fullybookedonline.com/book-humanities-short-stories-florida-by-lauren-groff.html
+amazon: https://read.amazon.com/kp/embed?asin=B076397RZY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_TNBRNSRK2VES36SN2WD3
+goodreads: https://www.goodreads.com/book/show/44776662-florida
 ---
 
 *Florida* opens with a nameless woman going for a nighttime jog as a constant monologue goes on in her head. She thinks about her family, and her neighborhood, her neighbors, and about life in general. She digs up some memories -- one or two remarkable ones in particular -- and then she ends her inner narrative on a tangent that seems only remotely related, if at all.

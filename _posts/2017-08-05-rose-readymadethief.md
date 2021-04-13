@@ -3,6 +3,9 @@ layout: review
 title: The Readymade Thief
 author: Augustus Rose
 slug: readymade_thief
+
+amazon: https://read.amazon.com/kp/embed?asin=B01MYWMZ80&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_K13V0J1R37531WZH3F2A
+goodreads: https://www.goodreads.com/book/show/38799536-the-readymade-thief
 ---
 
 It’s at the very climax of *The Readymade Thief* when all its tantalizing hints bear fruit: all the talk of secret societies, conspiracies, the works of a cryptic artist from a hundred years ago, and yes, even the title of the book itself. It is an exciting, fitting moment that paints the protagonist in a sympathetic and admirable light -- quite a feat, because for the first 90% of her story, she is a passive and uninteresting mess.

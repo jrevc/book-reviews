@@ -3,6 +3,10 @@ layout: review
 title: The Last Time I Lied
 author: Riley Sager
 slug: last_time_i_lied
+
+fullybooked: https://www.fullybookedonline.com/book-the-last-time-i-lied-a-novel-paperback-by-riley-sager.html
+amazon: https://read.amazon.com/kp/embed?asin=B076GNTWQM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_R12RDKWQEY0EA5J2AXN6
+goodreads: https://www.goodreads.com/book/show/36626748-the-last-time-i-lied
 ---
 
 Fifteen years is a very long time to be burdened by a deep, dark secret. Emma Davis -- artist, New Yorker, and first-time art gallery exhibitor -- knows that feeling. Emma has been coping with an unresolved trauma from her childhood for her entire adult life. Emma is guilty about something terrible that she did fifteen years ago, and the memory is somehow tied to the three girls that she obsessively paints into each of her works before entirely covering them up with earth, foliage, and other scenery.

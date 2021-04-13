@@ -3,6 +3,10 @@ layout: review
 title: Strange Weather
 author: Joe Hill
 slug: strange_weather
+
+fullybooked: https://www.fullybookedonline.com/book-humanities-strange-weather-four-short-novels-by-joe-hill.html
+amazon: https://read.amazon.com/kp/embed?asin=B01HXK8LNW&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_CPZCZVA8KZBRNCKF6K6X
+goodreads: https://www.goodreads.com/book/show/34066621-strange-weather
 ---
 
 It’s a rare pleasure to sit down with a novel that can be finished in a single sitting. It’s the best of both worlds in many ways: the depth and characterization of a story long enough to allow its characters and situations to breathe and grow, and also the singular experience of falling into another world and not coming back up for air until a complete story has been told from beginning to end.

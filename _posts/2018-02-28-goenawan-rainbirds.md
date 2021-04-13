@@ -3,6 +3,9 @@ layout: review
 title: Rainbirds
 author: Clarissa Goenawan
 slug: rainbirds
+
+amazon: https://read.amazon.com/kp/embed?asin=B071X2J7GQ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_0SVZH4FV2E6WF2Y6JFE7
+goodreads: https://www.goodreads.com/book/show/33026565-rainbirds
 ---
 
 When protagonist Ren Ishida walks into a police station in the opening pages of *Rainbirds* to inquire about the circumstances surrounding the murder of his older sister, it very much seems like a promise from the novel to deliver a gripping procedural and an intense crime drama. Ren has just rolled into the sleepy mountain town of Akakawa with the sole purpose of settling his sister Keiko’s affairs. Perhaps he wants to discover what led to her death. Her ashes are in an urn, which Ren leaves in his hotel room as he steps out to investigate. His internal monologue recalls happier times and the happy memories that he shared with his sister.

@@ -5,16 +5,28 @@ layout: default
 {% include prevnext.html %}
 
 <div class="sidebyside">
-	<div class="review-cover">
-		{% include bookcover_review.html %}
-	</div>
-	<div>
-		<div class="date-top">
-			{{ page.date | date_to_long_string }}
+	<div class="review-cover">{% include bookcover_review.html %}</div>
+	<div class="review-info">
+		<div class="review-title">
+			<div class="date-top">
+				{{ page.date | date_to_long_string }}
+			</div>
+
+			<h1 class="withdate">{{ page.title }}</h1>
+			<h2>by {{ page.author }}</h2>
 		</div>
 
-		<h1 class="withdate">{{ page.title }}</h1>
-		<h2>by {{ page.author }}</h2>
+		<div class="review-links">
+			{% if page.fullybooked %}
+			<a class="button minor" target="_blank" href="{{ page.fullybooked}}">Purchase from Fully Booked</a><br>
+			{% endif %}
+			{% if page.amazon %}
+				<a class="button minor" target="_blank" href="{{ page.amazon }}">Preview on Amazon</a><br>
+			{% endif %}
+			{% if page.goodreads %}
+				<a class="button minor" target="_blank" href="{{ page.goodreads }}">Discuss on Goodreads</a><br>
+			{% endif %}
+		</div>
 	</div>
 </div>
 
