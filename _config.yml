@@ -35,17 +35,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Defaults
 defaults:
   - scope:
-      path: "list"
-    values:
-      pagetype: wide
-  - scope:
-      path: "about"
-    values:
-      pagetype: wide
-  - scope:
       path: ""
     values:
-      pagetype: home
+      pagetype: wide
   - scope:
       path: ""
       type: "posts"
