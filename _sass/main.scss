@@ -120,6 +120,7 @@ h5 {
 
 .button:hover {
 	background-color:$complement-color;
+	color:#fff;
 }
 
 /**********/
@@ -134,7 +135,6 @@ header {
 	background-color:$background-color;
 	position:fixed;
 	font-size:0.75em;
-	z-index:2;
 }
 
 nav {
@@ -263,7 +263,6 @@ article {
 	left:50%;
 	transform:translateX(-50%);
 	position:absolute;
-	z-index:1;
 }
 
 .prevnext-top .nextlink,
@@ -318,7 +317,7 @@ article p:first-of-type:first-letter {
 /* HOME */
 /********/
 
-.home > :last-child {
+.wide > :last-child {
 	border-bottom:none;
 }
 
