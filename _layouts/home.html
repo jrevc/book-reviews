@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="wide title">
+	<div class="center">
+		<img src="{{ '/assets/img/logo.png' | relative_url}}"><h1>jRev Reviews</h1>
+	</div>
+</div>
+
+<div class="wide sidebyside">
+	{% assign post = site.posts | first %}
+	{% include bookcover.html %}
+	<div class="featured">
+		<h4>Latest book review</h4>
+		<h5>{{ post.title }} by {{ post.author }}</h5>
+		{{ post.excerpt }}
+		<div class="center"><a class="button" href="{{ post.url | relative_url }}">Read the review</a></div>
+	</div>
+</div>
+
+<div class="wide single">
+	<div class="center"><h4>Recent book reviews</h4></div>
+	{% include coverlist.html %}
+	<div class="center"><a class="button" href="{{ '/list' | relative_url}}">View all {{ site.posts.size }} reviews</a></div>
+</div>

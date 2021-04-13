@@ -1,0 +1,14 @@
+<div class="prevnext">
+	{% if page.previous %}
+		<a class="prevlink navfloat" href="{{ page.previous.url | relative_url }}">
+			<div class=" navfloatleft"><i class="fas fa-caret-left"></i></div>
+			<div><em>{{ page.previous.title }}</em><br>by {{ page.previous.author }}</div>
+		</a>
+	{% endif %}
+	{% if page.next.url %}
+		<a class="nextlink navfloat" href="{{ page.next.url | relative_url }}">
+			<div><em>{{ page.next.title }}</em><br>by {{ page.next.author }}</div>
+			<div class=" navfloatright"><i class="fas fa-caret-right"></i></div>
+		</a>
+	{% endif %}
+</div>

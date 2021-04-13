@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include prevnext.html %}
+
+<div class="sidebyside">
+	<div class="review-cover">
+		{% include bookcover_review.html %}
+	</div>
+	<div>
+		<div class="date-top">
+			{{ page.date | date_to_long_string }}
+		</div>
+
+		<h1 class="withdate">{{ page.title }}</h1>
+		<h2>by {{ page.author }}</h2>
+	</div>
+</div>
+
+<article>
+	{{ content }}
+</article>
+
+<div class="end">
+	<i class="fas fa-book-open"></i>
+</div>
+
+{% include prevnext.html %}

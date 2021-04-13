@@ -1,0 +1,13 @@
+<div class="coverlist">
+	{% for post in site.posts limit:page.covers %}
+		{% if forloop.index > page.skipcovers %}
+			<div class="book-entry">
+				<a href="{{ post.url | relative_url }}">
+					{% include bookcover.html %}
+					<span class="list-title">{{ post.title }}</span><br>
+					<span class="list-author">by {{ post.author }}</span>
+				</a>
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
