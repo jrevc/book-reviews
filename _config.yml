@@ -46,7 +46,6 @@ defaults:
       layout: review
       pagetype: review
       permalink: /list/:year/:title
-      excerpt_separator: <!-- excerpt -->
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -307,10 +307,12 @@ article {
 
 .navfloatleft {
 	margin:auto 1em auto 0;
+	width:0.5em;
 }
 
 .navfloatright {
 	margin:auto 0 auto 1em;
+	width:0.5em;
 }
 
 p {
@@ -499,8 +501,28 @@ main.review .sidebyside {
 	/* CONTENT */
 	/***********/
 
+	.review-cover,
+	.review-info {
+		text-align:center;
+	}
+
 	.review-cover img {
 		width:auto;
 		margin-bottom:$headerheight;
+	}
+
+	.prevlink.navfloat,
+	.nextlink.navfloat {
+		box-sizing:border-box;
+		margin-bottom:$headerheight / 2;
+		width:48%;
+	}
+
+	.prevlink.navfloat {
+		justify-content:flex-start;
+	}
+
+	.nextlink.navfloat {
+		justify-content:flex-end;
 	}
 }

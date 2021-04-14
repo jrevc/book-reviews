@@ -4,6 +4,8 @@ title: The Perfect World of Miwako Sumida
 author: Clarissa Goenawan
 slug: miwako_sumida
 
+excerpt_separator: <!-- excerpt -->
+
 fullybooked: https://www.fullybookedonline.com/book-the-perfect-world-of-miwako-sumida-paperback.html
 amazon: https://read.amazon.com/kp/embed?asin=B07VJ6X49D&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_9XJDD5TP14D8DNEJT9HZ
 goodreads: https://www.goodreads.com/book/show/52777764-the-perfect-world-of-miwako-sumida
