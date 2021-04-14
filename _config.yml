@@ -39,6 +39,7 @@ defaults:
       path: ""
     values:
       pagetype: wide
+      image: /assets/img/logo.png
   - scope:
       path: ""
       type: "posts"
