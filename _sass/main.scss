@@ -212,7 +212,7 @@ main.wide {
 
 main.review {
 	max-width:720px;
-	padding-top:$headerheight * 2;
+	padding-top:$headerheight + ($modulegap / 2);
 }
 
 div.wide {
@@ -368,6 +368,13 @@ article p:first-of-type:first-letter {
 	border-bottom:1px solid $lighter-accent-color;
 	margin-bottom:1em;
 	clear:both;
+}
+
+main.review .sidebyside {
+	border-top:1px solid $lighter-accent-color;
+	padding-top:$modulegap / 2;
+	padding-bottom: $modulegap / 2;
+	margin-top:$modulegap / 2;
 }
 
 .sidebyside img {
